@@ -6,7 +6,7 @@
 
 **最新版: v1.0.0**
 
-- [APKダウンロード](https://github.com/IKUKAWA/Leveling-app/releases/download/v1.0.0/leveling-app-v1.0.0.apk)
+- [APKダウンロード](https://github.com/IKUKAWA/Suijun-tool-app/releases/download/v1.0.0/suijun-tool-app-v1.0.0.apk)
 - [インストール手順](release-files/インストール手順.md)
 - [使用マニュアル](release-files/使用方法.md)
 
@@ -105,8 +105,8 @@ npm run build
 
 ```bash
 # リポジトリクローン
-git clone https://github.com/IKUKAWA/Leveling-app.git
-cd Leveling-app
+git clone https://github.com/IKUKAWA/Suijun-tool-app.git
+cd Suijun-tool-app
 
 # キーストア生成
 chmod +x scripts/generate_keystore.sh

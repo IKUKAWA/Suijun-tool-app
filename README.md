@@ -6,7 +6,7 @@
 
 **最新版: v1.0.0**
 
-- [APKダウンロード](https://github.com/IKUKAWA/Suijun-tool-app/blob/main/leveling-app-v1.0.0.apk)
+- [APKダウンロード（右上のDownload raw fileを押す）](https://github.com/IKUKAWA/Suijun-tool-app/blob/main/leveling-app-v1.0.0.apk)
 - [インストール手順](https://github.com/IKUKAWA/Suijun-tool-app/blob/main/インストール手順.md)
 - [使用マニュアル](https://github.com/IKUKAWA/Suijun-tool-app/blob/main/使用方法.md)
 
